@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanaAtlantis
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning the basics of programming
+- 🌱 I’m currently learning how to use AI in developing faster iteration models
 
 
 <!---
